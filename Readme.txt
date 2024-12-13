@@ -8,3 +8,7 @@ LCD
 Sensor ultrasônico
 LED
 Potenciômetro
+
+Referência:
+
+https://www.hackster.io/mircemk/speed-measurement-using-hc-sr04-ultrasonic-sensor-e132b7
